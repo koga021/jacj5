@@ -1,4 +1,4 @@
-nome_descricao,Part_Number,data_adicao
+nome_descricao,Part_Number,data_adicao;
 Velas Originais Jac,1026080GG013,2019-02-28;
 Filtro de Combustível,1105100U2090,2019-02-28;
 Filtro de Ar,1109120U2010,2019-02-28;
@@ -7,7 +7,8 @@ Bomba de Combustível Completa,1106010U8010,2019-02-28;
 Valvula Termostática,1041200GG010,2019-02-28;
 Flange da Válvula Termostática,1041011GG010,2019-02-28;
 Lampada seta indicadora do retrovisor,8173006060,2019-02-28;
-Farol de Neblina,4116100U7101,2019-02-28;
+Farol de Neblina esquerdo,4116100U7101,2019-02-28;
+Farol de Neblina direito,4116200U7101,2019-03-02;
 Nao sei,3550400U2230,2019-02-28;
 Bomba de água,1041100gg010,2019-02-28;
 Motor Esguicho Limpador de Parabrisas dianteiro,5207100U8010,2019-02-28;
@@ -47,9 +48,32 @@ Anéis do pistão,S1004L21153-50006,2019-03-02;
 Junta do cabeçote,S1002L21153-50006,2019-03-02;
 Condensador,8105010U7054,2019-03-02;
 Rolamento de cubo traseiro,3104110U2011,2019-03-02;
+Rolamento de cubo dianteiro,3103110U2011,2019-03-02;
 Cilindro de freio com reservatório de freio,3500312U2010,2019-03-02;
 Injetor de combustível,S1042L21153-50003,2019-03-02;
 Sensor de temperatura da agua,1026L21153-00013,2019-03-02;
+Sensor de temperatura e pressão,S1008L21153-51011,2019-03-02;
+Sonda Lambda Pós catalisador sensor de oxigênio,1206100U2010,2019-03-02;
+Sonda Lambda Pré catalisador sensor de oxigênio,S1044L21153-00008,2019-03-02;
+Motor de arranque,S1015L21153-00018,2019-03-02;
+Disco de freio frontal,3500027U2010,2019-03-02;
+Amortecedor dianteiro esquerdo,2905110U7101,2019-03-02;
+Amortecedor dianteiro direito,2905210U7101,;
+Amortecedor traseiro esquerdo,2915210U7101XZ,2019-03-02;
+Amortecedor traseiro direito,2915110U7101,2019-03-02;
+Bandeja da suspensão direito,2904200U2010,2019-03-02;
+Bandeja da suspensão esquerdo,2904100U2010,2019-03-02;
+Disco de embreagem,1600200U7101,2019-03-02;
+Platô da embreagem,1601100U8020,2019-03-02;
+Rolamento da embreagem,S1700L21069-80017,2019-03-02;
+Radiador,1301100U7054,2019-03-02;
+Logo da Jac,2803250U2010,2019-03-02;
+Pastilha de Freio traseira,S3500L21167-50024,2019-03-02;
+Cabeçote,S1003L21153-50001,2019-03-02;
+Compressor do ar condicionado,8104010U2010,2019-03-02;
+Cooler do radiador,1308100U1010XZ,2019-03-02;
+Retrovisor esquerdo,8210100U7101,2019-03-02;
+Retrovisor direito,8210200U7101,2019-03-02;
 
 
 
